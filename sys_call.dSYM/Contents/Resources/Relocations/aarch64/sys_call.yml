@@ -1,5 +1,0 @@
----
-triple:          'arm64-apple-darwin'
-binary-path:     '/Users/fbiswas/Documents/mine stuff/maintain_streak/day1/sys_call'
-relocations:     []
-...
